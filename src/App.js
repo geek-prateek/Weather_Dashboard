@@ -35,7 +35,7 @@ useEffect(() => {
   if (cityName) {
     fetchWeatherData();
   }
-}, [cityName, unit, fetchWeatherData]);
+}, [cityName, unit]);
 
   const handleSearch = () => {
     if (cityName) {
