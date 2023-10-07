@@ -23,7 +23,9 @@ This is a React-based web application that provides real-time weather informatio
 
 3. Replace "apiKey" in the App.js file with your actual API key.
 
-4. run the command "npm start"
+4. run the command "npm install" to install the required dependencies.
+
+5. To start the development server, run the "npm start" command.
 
 ## Acknowledgments
 
